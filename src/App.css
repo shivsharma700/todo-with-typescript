@@ -1,0 +1,9 @@
+
+body{
+  background-color: #1C0E04;
+}
+
+.background{
+  display: flex;
+  justify-content: center;
+}
